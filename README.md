@@ -1,2 +1,2 @@
 # datathone-2025
-Intent de fer la Datathone 2025
+hem penjat el codi com a document .py
